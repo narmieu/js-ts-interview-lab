@@ -11,7 +11,7 @@ A free, single-page site for preparing for JavaScript and TypeScript interviews.
   - JavaScript fundamentals, async JavaScript (your own Promise, concurrency pools, schedulers) and advanced JavaScript (Proxy, generators, parsers)
   - TypeScript type challenges (MyPick, DeepReadonly, Paths, IsUnion and more), checked by the real TypeScript compiler in your browser
   - Typed TypeScript functions that must pass both type tests and runtime tests
-- **Output quiz**: 76 "what does this print?" snippets about the event loop, hoisting, `this`, coercion, objects and arrays.
+- **Quiz**: 192 multiple-choice concept questions and 106 "what does this print?" snippets. Quick 5/10/20-question rounds, quizzes by topic and per lesson, a weak-spots review of what you missed, and an explanation after every answer.
 - **Interview questions**: 112 questions with model answers, key points to cover, likely follow-ups and a mock interview mode.
 
 ## The code editor
@@ -24,6 +24,10 @@ The challenges use a real code editor (CodeMirror 5) with the TypeScript languag
 - Line commands: move (`Alt+Up/Down`), copy (`Shift+Alt+Up/Down`), delete (`Ctrl+Shift+K`), comment (`Ctrl+/`)
 - Run (`Ctrl+Enter`) and submit (`Ctrl+Shift+Enter`), your own test cases checked against the reference solution, a console tab for calling your code with anything, and a history of your submissions
 - Settings for font size, indentation, word wrap and suggestions, plus a focus mode
+
+## On your phone
+
+The site is built to be used on a phone too: a bottom tab bar, one-tap answers in every quiz, and a coding view split into Problem, Code and Tests tabs with a row of symbol keys (`{ } ( ) [ ] ; => '` and more) above the editor.
 
 ## How it works
 
